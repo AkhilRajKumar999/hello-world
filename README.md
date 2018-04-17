@@ -1,4 +1,7 @@
 # hello-world
 My_first_repository
 
-This is a branch - mainly used to understand the reason for using the branch in github
+This is a branch - 
+
+
+This is a whole new branch mainly intended to understand and work with github
